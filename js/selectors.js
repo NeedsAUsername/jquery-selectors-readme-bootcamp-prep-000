@@ -1,1 +1,3 @@
 $('.pics')
+
+$('#baby-ninja')
